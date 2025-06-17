@@ -21,7 +21,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/AI-CampusSync.git  
+git clone https://campusaisync.onrender.com/study-groups  
 cd AI-CampusSync  
 Set up the database using SQL scripts.
 
